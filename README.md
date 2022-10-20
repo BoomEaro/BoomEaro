@@ -7,7 +7,7 @@ About 3+ years I usually write plugins for minecraft servers for myself, but lat
 
 ⭐ Now I help develop protection against bots for [ShieldCommunity](https://github.com/ShieldCommunity)
 
-🔌 My soft skills (sorted by experience): 
+🔌 My hard skills (sorted by experience): 
 - Java
 - Bukkit api
 - BungeeCord api
