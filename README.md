@@ -1,6 +1,6 @@
 ### Hello everyone 👋 
 
-💥 My name is Valentin, im from Latvia and my native language is Russian.
+💥 My name is Valentine, im from Latvia and my native language is Russian.
 
 I am a java developer with a focus on backend development.
 About 3+ years I usually write plugins for minecraft servers for myself, but lately I've been interested in minecraft game protocol and the way to protect servers from DDoS or bot attacks.
