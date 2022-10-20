@@ -1,16 +1,25 @@
-### Hi there 👋
+### Hello everyone 👋 
 
-<!--
-**BoomEaro/BoomEaro** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+💥 My name is Valentin, im from Latvia and my native language is Russian.
 
-Here are some ideas to get you started:
+I am a java developer with a focus on backend development.
+About 3+ years I usually write plugins for minecraft servers for myself, but lately I've been interested in minecraft game protocol and the way to protect servers from DDoS or bot attacks.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+⭐ Now I help develop protection against bots for [ShieldCommunity](https://github.com/ShieldCommunity)
+
+🔌 My soft skills (sorted by experience): 
+- Java
+- Bukkit api
+- BungeeCord api
+- SQL
+- JDBC
+- Git
+- Maven
+- Gradle
+- Netty
+- Spring Framework
+- Hibernate
+
+📞 Contact me
+- Discord: BoomEaro#4486
+- VK: https://vk.com/id225125416
