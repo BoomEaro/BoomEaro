@@ -20,6 +20,6 @@ About 3+ years I usually write plugins for minecraft servers for myself, but lat
 - Spring Framework
 - Hibernate
 
-📞 Contact me
+📞 Contact me:
 - Discord: BoomEaro#4486
 - VK: https://vk.com/id225125416
