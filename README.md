@@ -21,5 +21,5 @@ About 3+ years I usually write plugins for minecraft servers for myself, but lat
 - Hibernate
 
 📞 Contact me:
-- Discord: BoomEaro#4486
+- Discord: BoomEaro
 - VK: https://vk.com/id225125416
